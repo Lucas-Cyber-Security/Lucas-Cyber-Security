@@ -16,6 +16,7 @@ To contribute as a **Security Analyst** by applying my knowledge, investigating 
 
 | Project Title | Description | Link |
 |--------------|-------------|------|
+| 🛠 **FixIT Challenge Splunk Lab Write Up** | Troubleshoots and resolves issues within a Splunk deployment related to log ingestion, multi-line event boundaries, and field extraction using custom configurations and regular expressions. | [View Project](https://github.com/Lucas-Cyber-Security/FixIT-Challenge-Splunk-Lab-Write-Up) |
 | 🕵️ **Registry Forensics: Uncovering Insider Threats** | Used KAPE and Registry Explorer to analyze unauthorized access, lateral movement, and user activity in a Windows environment. | [View Project](https://github.com/LucasCodes8/Registry-Forensics-Uncovering-Insider-Threats-in-the-Secret-Recipe-Case) |
 | 📊 **Investigating a Compromised Host with Splunk** | Leveraged Windows Event Logs and Splunk searches to detect scheduled tasks, credential abuse, and network data exfiltration. | [View Project](https://github.com/LucasCodes8/Investigating-a-Compromised-Host-Analyzing-Process-Execution-and-Payload-Delivery-Using-Splunk) |
 | 🧠 **Detecting C2 Communications Using ELK Stack** | Correlated network logs in Kibana to identify command and control behavior in a simulated threat environment. | [View Project](https://github.com/LucasCodes8/Investigating-Command-and-Control-C2-Communication-Using-the-ELK-Stack-A-Network-Log-Analysis-Lab) |
