@@ -52,9 +52,9 @@ To contribute as a **Security Analyst** by applying my knowledge, investigating 
 
 ## 🎓 Certifications
 
-- 📜 **CompTIA CySA+** (June 2024)
-- 📜 **CompTIA Security+** (October 2023)
-- 📜 **CompTIA Network+** (March 2024)
+- [📜 **CompTIA CySA+** (June 2024)](https://www.credly.com/badges/52098228-2daa-448d-bfaf-a4746c6f15b6)
+- [📜 **CompTIA Security+** (October 2023)](https://www.credly.com/badges/f1a4a071-7e7b-4d66-ad9f-64838df394a4/public_url)
+- [📜 **CompTIA Network+** (March 2024)](https://www.credly.com/badges/ed2d25a0-145f-47ca-a69f-b7a503294494)
 
 <!-- Optional: Add badge images for certs here -->
 
@@ -64,10 +64,9 @@ To contribute as a **Security Analyst** by applying my knowledge, investigating 
 
 I'm always open to collaborating on projects, discussing cybersecurity trends, or learning something new. Feel free to connect with me:
 
-- 🔗 [LinkedIn](#)
-- 📁 [TryHackMe Profile](#)
-- 🌐 [Portfolio Website](#) <!-- Optional GitHub Pages or Notion link -->
-- 📨 [Email](#)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-mcmahon-cybersec/)
+- 📁 [TryHackMe Profile](https://tryhackme.com/p/Lucas88)
+- 📨 [Email](lucasmcmahon040@gmail.com)
 
 ---
 
