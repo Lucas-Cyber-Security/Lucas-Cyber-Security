@@ -66,7 +66,7 @@ I'm always open to collaborating on projects, discussing cybersecurity trends, o
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-mcmahon-cybersec/)
 - 📁 [TryHackMe Profile](https://tryhackme.com/p/Lucas88)
-- 📨 [Email](lucasmcmahon040@gmail.com)
+- 📨 [Email](mailto:lucasmcmahon040@gmail.com)
 
 ---
 
