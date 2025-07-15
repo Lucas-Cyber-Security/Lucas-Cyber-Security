@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucas McMahon
 
-<!--
-**Lucas-Cyber-Security/Lucas-Cyber-Security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity professional with a Bachelor of Science in **Cyber Criminology** from Florida State University and certifications including **CompTIA CySA+**, **Security+**, and **Network+**. I have hands-on experience in security analysis, threat detection, digital forensics, and network monitoring, supported by practical labs using tools like **Splunk, Wazuh, LimaCharlie, Zeek, Wireshark**, and **ELK**.
 
-Here are some ideas to get you started:
+My background includes both technical troubleshooting and real-world incident analysis, equipping me to identify threats, respond to breaches, and improve defensive security posture in fast-paced environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Objective
+
+To contribute as a **Security Analyst** by applying my knowledge, investigating real threats, and continuously growing in the ever-evolving cybersecurity landscape. I’m passionate about building strong detection capabilities, solving complex problems, and keeping networks safe.
+
+---
+
+## 🧪 Featured Projects
+
+| Project Title | Description | Link |
+|--------------|-------------|------|
+| 🕵️ **Registry Forensics: Uncovering Insider Threats** | Used KAPE and Registry Explorer to analyze unauthorized access, lateral movement, and user activity in a Windows environment. | [View Project](https://github.com/LucasCodes8/Registry-Forensics-Uncovering-Insider-Threats-in-the-Secret-Recipe-Case) |
+| 📊 **Investigating a Compromised Host with Splunk** | Leveraged Windows Event Logs and Splunk searches to detect scheduled tasks, credential abuse, and network data exfiltration. | [View Project](https://github.com/LucasCodes8/Investigating-a-Compromised-Host-Analyzing-Process-Execution-and-Payload-Delivery-Using-Splunk) |
+| 🧠 **Detecting C2 Communications Using ELK Stack** | Correlated network logs in Kibana to identify command and control behavior in a simulated threat environment. | [View Project](https://github.com/LucasCodes8/Investigating-Command-and-Control-C2-Communication-Using-the-ELK-Stack-A-Network-Log-Analysis-Lab) |
+| 🛡 **Cyber Defense with Wazuh and Sysmon** | Built detection rules and reviewed real-time alerts to uncover malicious behavior and attacker persistence. | [View Project](https://github.com/LucasCodes8/Using-Wazuh-and-Sysmon-for-Cyber-Defense) |
+| 🧪 **Simulated Threat Hunting with LimaCharlie** | Created intrusion prevention detections and automated response using YARA rules and EDR data. | [View Project](https://github.com/LucasCodes8/Building-a-Robust-Cyber-Defense-Simulating-Threats-with-LimaCharlie) |
+| 🌐 **Network Traffic Analysis and Attack Detection** | Identified malicious activity in packet captures using Wireshark, focusing on DNS tunneling and suspicious ICMP traffic. | [View Project](https://github.com/LucasCodes8/MyWork/blob/main/DetectingMITM.pdf) |
+| ⚙️ **Signature-Based Detection with Zeek and Scripting** | Created Zeek scripts and custom detection logic to identify scan behavior and anomaly indicators. | [View Project](https://github.com/LucasCodes8/MyWork/blob/main/ZeekWriteup.pdf) |
+| 🛠 **Forensic Analysis of Unauthorized Access** | Used multiple forensic tools to investigate user accounts, network drives, and USB artifacts on a Windows VM. | [View Project](https://github.com/LucasCodes8/Forensic-Analysis-of-Unauthorized-Access-on-Windows-VM/tree/main) |
+
+> 📌 More detailed write-ups and new projects are regularly added — stay tuned!
+
+---
+
+## 🧰 Tools & Technologies
+
+### 🔎 SIEM & Detection Platforms
+- Splunk
+- Wazuh
+- ELK Stack
+- LimaCharlie
+
+### 🧠 Forensics & Monitoring
+- KAPE + EZ Tools
+- Zeek
+- Wireshark
+- Sysmon
+
+### ⚙️ Scripting & Automation
+- Python
+- PowerShell
+- Bash (basic)
+
+---
+
+## 🎓 Certifications
+
+- 📜 **CompTIA CySA+** (June 2024)
+- 📜 **CompTIA Security+** (October 2023)
+- 📜 **CompTIA Network+** (March 2024)
+
+<!-- Optional: Add badge images for certs here -->
+
+---
+
+## 📫 Let’s Connect!
+
+I'm always open to collaborating on projects, discussing cybersecurity trends, or learning something new. Feel free to connect with me:
+
+- 🔗 [LinkedIn](#)
+- 📁 [TryHackMe Profile](#)
+- 🌐 [Portfolio Website](#) <!-- Optional GitHub Pages or Notion link -->
+- 📨 [Email](#)
+
+---
+
+_Thanks for visiting!_ 🚀
