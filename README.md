@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas McMahon
+#  Hi, I'm Lucas McMahon
 
 I'm a cybersecurity professional with a Bachelor of Science in **Cyber Criminology** from Florida State University and certifications including **CompTIA CySA+**, **Security+**, and **Network+**. I have hands-on experience in security analysis, threat detection, digital forensics, and network monitoring, supported by practical labs using tools like **Splunk, Wazuh, LimaCharlie, Zeek, Wireshark**, and **ELK**.
 
