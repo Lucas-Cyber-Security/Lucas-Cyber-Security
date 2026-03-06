@@ -54,10 +54,10 @@ To contribute as a **Security Analyst** by applying my knowledge, investigating 
 
 ## 🎓 Certifications
 
-- [📜 **Splunk Core Certified Power User** (July 2025)](https://www.credly.com/badges/1209f889-f3cd-42bb-a0cd-da170385ffc9/public_url)
-- [📜 **CompTIA CySA+** (June 2024)](https://www.credly.com/badges/52098228-2daa-448d-bfaf-a4746c6f15b6)
-- [📜 **CompTIA Security+** (October 2023)](https://www.credly.com/badges/f1a4a071-7e7b-4d66-ad9f-64838df394a4/public_url)
-- [📜 **CompTIA Network+** (March 2024)](https://www.credly.com/badges/ed2d25a0-145f-47ca-a69f-b7a503294494)
+- [📜 **Splunk Core Certified Power User**](https://www.credly.com/badges/1209f889-f3cd-42bb-a0cd-da170385ffc9/public_url)
+- [📜 **CompTIA CySA+**](https://www.credly.com/badges/52098228-2daa-448d-bfaf-a4746c6f15b6)
+- [📜 **CompTIA Security+**](https://www.credly.com/badges/f1a4a071-7e7b-4d66-ad9f-64838df394a4/public_url)
+- [📜 **CompTIA Network+**](https://www.credly.com/badges/ed2d25a0-145f-47ca-a69f-b7a503294494)
 
 <!-- Optional: Add badge images for certs here -->
 
