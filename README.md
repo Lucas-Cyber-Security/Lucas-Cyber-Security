@@ -28,7 +28,6 @@ To contribute as a **Security Analyst** by applying my knowledge, investigating 
 | ⚙️ **Signature-Based Detection with Zeek and Scripting** | Created Zeek scripts and custom detection logic to identify scan behavior and anomaly indicators. | [View Project](https://github.com/LucasCodes8/MyWork/blob/main/ZeekWriteup.pdf) |
 | 🛠 **Forensic Analysis of Unauthorized Access** | Used multiple forensic tools to investigate user accounts, network drives, and USB artifacts on a Windows VM. | [View Project](https://github.com/LucasCodes8/Forensic-Analysis-of-Unauthorized-Access-on-Windows-VM/tree/main) |
 
-> 📌 More detailed write-ups and new projects are regularly added — stay tuned!
 
 ---
 
