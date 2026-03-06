@@ -16,6 +16,7 @@ To contribute as a **Security Analyst** by applying my knowledge, investigating 
 
 | Project Title | Description | Link |
 |--------------|-------------|------|
+| 🌐 **Windows Logging for SOC – Security Investigation** |  A simulated security investigation conducted in a Windows environment using Event Viewer, Sysmon, and PowerShell logs. The goal was to detect and analyze malicious activity on an endpoint, reconstruct the attack chain, and identify persistence and command-and-control behavior.s. | [View Project](https://github.com/Lucas-Cyber-Security/Windows-Logging-for-SOC-Log-Analysis-Investigation) |
 | 🛡 **Practicing with CVE's!** | A sort of journal exploring the means of exposing/patching common and new CVE's. | [View Project](https://github.com/Lucas-Cyber-Security/CVE_Projects) |
 | 🛠 **FixIT Challenge Splunk Lab Write Up** | Troubleshoots and resolves issues within a Splunk deployment related to log ingestion, multi-line event boundaries, and field extraction using custom configurations and regular expressions. | [View Project](https://github.com/Lucas-Cyber-Security/FixIT-Challenge-Splunk-Lab-Write-Up) |
 | 🕵️ **Registry Forensics: Uncovering Insider Threats** | Used KAPE and Registry Explorer to analyze unauthorized access, lateral movement, and user activity in a Windows environment. | [View Project](https://github.com/LucasCodes8/Registry-Forensics-Uncovering-Insider-Threats-in-the-Secret-Recipe-Case) |
